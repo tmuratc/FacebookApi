@@ -19,7 +19,7 @@ AdsInsights.Field.inline_link_click_ctr ,
 AdsInsights.Field.inline_link_clicks ,
 AdsInsights.Field.reach ,
 AdsInsights.Field.spend,
-#conversionlar gelmiyor, actions-action_values'le ulaşıyoruz. 
+#to get conversion values: actions-action_values 
 #https://mixedanalytics.com/knowledge-base/import-facebook-ad-data-to-google-sheets/#num5
 AdsInsights.Field.conversions,
 AdsInsights.Field.conversion_values,  
